@@ -16,3 +16,4 @@
 ```
  npx my-guessing-number-game
 ```
+https://www.npmjs.com/package/my-guessing-number-game
